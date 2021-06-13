@@ -1,0 +1,1 @@
+# Hospital-Management-System is a platform that enables doctors and patients to have a direct meeting point where patients can book an appointment at ease and doctors can view patient medical history.
